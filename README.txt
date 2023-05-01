@@ -1,5 +1,3 @@
-Sure, I'd be happy to explain each part of the code in more detail:
-
 import csv - This line imports the csv module, which provides functionality for reading and writing CSV files.
 
 def get_num_students(): - This line defines a function called get_num_students() that prompts the user to enter the number of students and returns the number as an integer. If the user enters an invalid input, the function will recursively call itself until a valid input is provided.
